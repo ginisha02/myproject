@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'myfrtproject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7160D5F3CAD247D49FE47A6CD7648DA6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99C624EAE4AB4467B82CE496D18E7CA0 }}
